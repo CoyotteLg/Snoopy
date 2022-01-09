@@ -13,7 +13,7 @@
 //  1 ms                        ON_PULSE_WIDTH          1,5 ms     BLINK_PULSE_WIDTH                        2 ms
 // 
 // In blink, LED 3 is flashing while LED1 and LED2 are ON
-// Flash duration is ajusted by the pulse lenght : The more close to 2000ms, the longer the LED is ON
+// Flash duration is ajusted by the pulse lenght : The more close to 2ms, the longer the LED is ON
 
 // This code is published under the GNU General Public License v3.0
 // 
